@@ -1,4 +1,4 @@
-# personal-website
+# personal-website_source
 
 This repository hosts the source files of my [personal website](https://manosvek.github.io/personal-website/) built with [Hugo]https://gohugo.io).
 
