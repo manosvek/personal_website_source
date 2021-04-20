@@ -131,6 +131,11 @@ name = "About"
 weight = 1
 url = "about/"
 
+[[languages.en.menu.main]]
+name = "My CV"
+weight = 2
+url = "cv/"
+
 #[[languages.en.menu.main]]
 #name = "Contact"
 #weight = 2
