@@ -1,5 +1,5 @@
 baseURL = "https://manosvek.github.io/personal-website/"
-title = "Home"
+title = "Manos Vekrakis"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
