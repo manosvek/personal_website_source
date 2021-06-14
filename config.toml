@@ -100,28 +100,32 @@ tag = "tags"
 author = "authors"
 
 [[params.social]]
-name = "Email"
-icon = "fa fa-google"
-weight = 3
-url = "mailto:manosvek@gmail.com"
-
-[[params.social]]
 name = "Github"
 icon = "fa fa-github"
 weight = 1
 url = "https://github.com/manosvek/"
+target = "_blank"
+
+[[params.social]]
+name = "Email"
+icon = "fa fa-google"
+weight = 2
+url = "mailto:manosvek@gmail.com"
+target = "_blank"
 
 [[params.social]]
 name = "LinkedIn"
 icon = "fa fa-linkedin"
-weight = 4
+weight = 3
 url = "https://www.linkedin.com/in/manos-vekrakis/"
+target = "_blank"
 
 [[params.social]]
 name = "Facebook"
 icon = "fa fa-facebook"
-weight = 3
+weight = 4
 url = "https://www.facebook.com/manosvek/"
+target = "_blank"
 
 [languages.en]
 languageName = ":uk:"
